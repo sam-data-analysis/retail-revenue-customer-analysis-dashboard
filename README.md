@@ -1,4 +1,4 @@
-# Retail Revenue & Customer Analysis Dashboard
+# Retail Revenue & Customer Analysis Dashboard (Power BI)
 
 Power BI dashboard analysing retail revenue trends, customer concentration, product performance, and geographic sales patterns using the Online Retail dataset.
 
@@ -29,10 +29,10 @@ This page explores deeper commercial insights, including:
 
 ## Key Insights
 
-- Revenue rises meaningfully through the year and peaks in November, suggesting strong seasonality.
-- The UK generates the vast majority of revenue, with a long tail of smaller international markets.
-- A relatively small group of customers contributes a disproportionate share of total revenue.
-- Revenue is concentrated in a small number of products, particularly seasonal and gift-oriented items.
+• Revenue shows strong seasonality, peaking in November.
+• The United Kingdom generates the majority of total revenue.
+• Customer revenue is concentrated — the top 10 customers generate 16.5% of revenue.
+• Product sales are concentrated among a small group of gift-oriented items.
 
 ## Data Preparation
 
