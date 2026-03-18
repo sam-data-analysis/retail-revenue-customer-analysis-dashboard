@@ -15,7 +15,7 @@ This page provides a high-level business summary, including:
 - Revenue by Country
 - Top 10 Products by Revenue
 
-  ![Executive Overview](executive_overview.png)
+  ![Executive Overview](Executive_Overview_Summary.png)
 
 ### 2. Customer & Product Insights
 This page explores deeper commercial insights, including:
