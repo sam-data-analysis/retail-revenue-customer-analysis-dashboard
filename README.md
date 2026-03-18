@@ -1,5 +1,9 @@
 # Retail Revenue & Customer Analysis Dashboard (Power BI)
 
+## Project Objective
+
+The objective of this project is to demonstrate how Power BI can be used to transform transactional retail data into clear business insights for decision makers.
+
 Power BI dashboard analysing retail revenue trends, customer concentration, product performance, and geographic sales patterns using the Online Retail dataset.
 
 ## Dashboard Pages
@@ -26,6 +30,15 @@ This page explores deeper commercial insights, including:
 - Revenue by Country
 
   ![Customer & Product Insights](Customer_Product_Insights.png)
+
+## Skills Demonstrated
+
+• Power BI dashboard development  
+• Data cleaning using Power Query  
+• DAX measures and calculated columns  
+• Data visualisation and storytelling  
+• Business insight generation  
+• Customer concentration analysis  
 
 ## Key Insights
 
