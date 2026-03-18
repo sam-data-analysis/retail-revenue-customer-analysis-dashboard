@@ -1,0 +1,8 @@
+Dataset: Online Retail
+Source: UCI Machine Learning Repository
+File used: Online Retail.xlsx
+
+Notes:
+- Cancelled invoices removed
+- Blank CustomerID rows removed
+- Revenue column created as Quantity * UnitPrice
