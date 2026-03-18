@@ -25,7 +25,7 @@ This page explores deeper commercial insights, including:
 - Revenue by Product
 - Revenue by Country
 
-  ![Customer & Product Insights](customer_product_insights.png)
+  ![Customer & Product Insights](Customer_Product_Insights.png)
 
 ## Key Insights
 
