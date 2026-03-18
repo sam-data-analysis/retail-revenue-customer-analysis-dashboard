@@ -59,8 +59,8 @@ The following cleaning steps were completed in Power BI / Power Query:
 ## Files
 
 - `Retail_Revenue_Customer_Analysis.pbix` — Power BI dashboard file
-- `executive_overview.png` — Screenshot of Page 1
-- `customer_product_insights.png` — Screenshot of Page 2
+- `Executive_Overview_Summary.png` — Screenshot of Page 1
+- `Customer_Product_Insights.png` — Screenshot of Page 2
 - `dataset_source.txt` — Dataset source and preparation notes
 
 ## Dataset Source
@@ -69,4 +69,5 @@ Online Retail dataset from the UCI Machine Learning Repository.
 
 ## Author
 
+GitHub: https://github.com/sam-data-analysis
 Sam H
