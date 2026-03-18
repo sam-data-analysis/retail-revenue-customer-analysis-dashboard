@@ -68,6 +68,6 @@ The following cleaning steps were completed in Power BI / Power Query:
 Online Retail dataset from the UCI Machine Learning Repository.
 
 ## Author
-
 GitHub: https://github.com/sam-data-analysis
+
 Sam H
